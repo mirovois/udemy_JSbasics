@@ -53,6 +53,7 @@ calculateAmount: function() {
   }
 }
 }
+
 billMark.calculateTip();
 billMark.calculateAmount();
 console.log(billMark);
